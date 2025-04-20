@@ -9,5 +9,5 @@
 </p>
 <p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=h-okahara&layout=compact&theme=dracula" alt="GitHub Contributions" style="height: 145px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-okahara&layout=compact&card_width=350&theme=dracula" alt="Top Languages" style="height: 145px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=h-okahara&layout=compact&card_width=350&theme=dracula&cache_seconds=43200" alt="Top Languages" style="height: 145px;" />
 </p>
